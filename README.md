@@ -1,5 +1,3 @@
-2. Product-cards
-
 Description:
 This project contains a web page designed to showcase product cards.
 
